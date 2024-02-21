@@ -1,6 +1,6 @@
 *{
     font-family: 'Plus Jakarta Sans', sans-serif;
-    font-weight: 700;
+    font-weight: bold;
 }
 .navbar{
     background-color: #ececec !important;
@@ -9,6 +9,7 @@
 .navbar ul li{
    font-size: 12px;
    padding: 0 17px;
+
 }
 .search-bar{
     background-color:#f5f5f5 ;
@@ -73,5 +74,13 @@
 .country-logo{
     max-width: 35px;
     margin: 5px;
+}
+.follow-us{
+    max-width: 35px;
+    margin: 5px;
+    
+}
+.pcci-dcc{
+    max-width: 150px;
 }
 
