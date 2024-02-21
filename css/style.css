@@ -48,5 +48,30 @@
     font-weight: bold;
 }
 .btn-load:hover{
-    background-color:#f57224;
+    background-color:lightgray;
 }
+.card-product:hover{
+    background-color:lightgray;
+}
+.scaner{
+    width: 200px;
+    height: auto;
+    border-radius: 25px;
+}
+.add-footer{
+    background-color: #032b5c;
+    color: white;
+}
+.logo-d{
+    border-radius:10px;
+    
+}
+.account-img{
+    max-width: 35px;
+    margin: 5px;
+}
+.country-logo{
+    max-width: 35px;
+    margin: 5px;
+}
+
